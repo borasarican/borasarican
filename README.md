@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGomjalPnrMqA/profile-displaybackgroundimage-shrink_350_1400/B4DZd.x8OFGsAc-/0/1750178711031?e=1756339200&v=beta&t=NAakiFD1xfdfgJq27jUXXne-kiHXqq7TGOvOeW-QiTY)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEajsKZODklFw/profile-displaybackgroundimage-shrink_350_1400/B4DZe3_IYJGYAY-/0/1751138480014?e=1756339200&v=beta&t=8QAxAfQZUN5ArzcfPMBfhx_3L2pZbn_ghvKFAZpjky0)
 <h1 align="center">Hi 👋, I'm Bora Sarıçan</h1>
 <h3 align="center">A passionate Web developer from Turkey</h3>
 
